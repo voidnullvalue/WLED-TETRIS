@@ -1,0 +1,10 @@
+{
+  "name": "wled-tetris",
+  "version": "1.0.0",
+  "description": "Terminal-played Tetris rendered to dual WLED 8x32 matrices as one 32x16 field",
+  "main": "tetris_wled.js",
+  "scripts": {
+    "start": "node tetris_wled.js"
+  },
+  "license": "MIT"
+}
